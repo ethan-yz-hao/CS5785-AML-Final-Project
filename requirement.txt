@@ -1,0 +1,9 @@
+boto3==1.21.8
+botocore==1.24.8
+matplotlib==3.5.1
+numpy==1.19.3
+requests==2.27.1
+segyio==1.9.9
+torch==1.10.1+cu113
+torchaudio==0.10.1+cu113
+torchvision==0.11.2+cu113
